@@ -1,0 +1,86 @@
+body{ 
+    width: 100%;
+    position: relative;
+    background-color: #000;
+    background-image: url(/Images/corrida.png);
+    background-size: cover;
+
+
+}
+
+div.stopwatch{
+    opacity: 0.75;
+    position: absolute;
+    top:160px;
+    left: 360px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    border: linear;
+    border-color: black;
+    background-color: cadetblue;
+    /* justify-content: space-evenly; */
+    width: 600px;
+    height: 310px;
+    border-radius: 80px;
+}
+
+p{
+    width: 340px;
+    height: 90px;
+}
+
+span#hours{
+    font-size: 80px;
+}
+
+span#minutes{
+    font-size: 80px;
+}
+
+span#seconds{
+    font-size: 80px;
+}
+
+span#dois-pontos1{
+    font-size: 80px;
+}
+
+span#dois-pontos2{
+    font-size: 80px;
+}
+
+
+
+button#button-start{
+    width: 70px;
+    height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 12px;
+    justify-content: space-evenly;
+    text-decoration: white;
+}
+
+button#button-stop{
+    width: 70px;
+    height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 12px;
+    justify-content: space-evenly;
+    text-decoration: white;
+}
+
+button#button-reset{
+    width: 70px;
+    height: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 12px;
+    justify-content: space-evenly;
+    text-decoration: white;
+}
+ 
+.image{
+    position: fixed;
+}
+
