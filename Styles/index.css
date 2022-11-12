@@ -5,7 +5,7 @@
         max-width: 100%;
         position: relative;
         background-color: #000;
-        background-image: url(/Images/corrida.png);
+        background-image: url(Images/corrida.png);
         background-size: cover;
         background-repeat: no-repeat;
     }
@@ -90,7 +90,7 @@ button#button-reset{
         max-width: 100%;
         position: relative;
         background-color: #000;
-        background-image: url(/Images/corrida.png);
+        background-image: url(Images/corrida.png);
         background-size: cover;
         background-repeat: no-repeat;
     }
@@ -110,7 +110,7 @@ button#button-reset{
         /* justify-content: space-evenly; */
         width: 350px;
         height: 205px;
-        border-radius: 80px;
+        border-radius: 50px;
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
@@ -118,7 +118,7 @@ button#button-reset{
     }
 
     h2{
-        font-size: 20px;
+        font-size: 15px;
         margin-top: -20px;
     }
    
@@ -126,7 +126,7 @@ button#button-reset{
         width: 340px;
         height: 90px;
         color: white;
-        font-size: 7px;
+        font-size: 4px;
         margin-left: 30px;
         margin-top: 0px;
     }
