@@ -130,29 +130,29 @@ video {
         width: 340px;
         height: 90px;
         color: white;
-        font-size: 2px;
+        font-size: 1px;
         margin-left: 30px;
         margin-top: 0px;
     }
 
     span#hours{
-        font-size: 80px;
+        font-size: 78px;
     }
 
     span#minutes{
-        font-size: 80px;
+        font-size: 78px;
     }
 
     span#seconds{
-        font-size: 80px;
+        font-size: 78px;
     }
 
     span#colon1{
-        font-size: 80px;
+        font-size: 78px;
     }
 
     span#colon2{
-        font-size: 80px;
+        font-size: 78px;
     }
     .buttons{
         margin-top: 60px;
