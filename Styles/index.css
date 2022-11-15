@@ -5,7 +5,7 @@
         max-width: 100%;
         position: relative;
         background-color: #000;
-        background-image: url(/Images/corrida.png);
+        background-image: url(../Images/corrida.png);
         background-size: cover;
         background-repeat: no-repeat;
     }
@@ -94,7 +94,7 @@ video {
         max-width: 100%;
         position: relative;
         background-color: #000;
-        background-image: url(/Images/corrida.png);
+        background-image: url(../Images/corrida.png);
         background-size: cover;
         background-repeat: no-repeat;
     }
